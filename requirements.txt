@@ -1,0 +1,7 @@
+sqlite3
+csv
+argparse
+os
+pandas
+matplotlib
+urllib
