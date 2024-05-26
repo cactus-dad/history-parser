@@ -44,7 +44,7 @@ Recently, a team of students and I participated in a Digital Forensics/Incident 
   
   MacOs : /Users/"username"/Library/Application Support/Firefox/Profiles/"something".default-release\places.sqlite
   
-- Microsoft Edge
+- Microsoft Edge:
   
   Windows: C:\Users\\"username"\AppData\Local\Microsoft\Edge\User Data\Default\History
   
