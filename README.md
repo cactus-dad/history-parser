@@ -37,7 +37,7 @@ Recently, a team of students and I participated in a Digital Forensics/Incident 
   MacOs :  /Users/"username"/Library/Application Support/Google/Chrome/Default/History
   
 - Mozilla Firefox:
-- 
+  
   Windows : C:\Users\\"username"\AppData\Local\Mozilla\Firefox\Profiles\"something".default-release\places.sqlite
   
   Linux : /home/"username"/.mozilla/firefox/<something>.default-esr/places.sqlite
